@@ -71,3 +71,4 @@ CREATE TABLE discharges (
     discharge_date DATE NOT NULL,
     discharge_disposition VARCHAR(255) NOT NULL
 );
+
