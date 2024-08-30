@@ -141,6 +141,6 @@ CREATE TABLE patients(
 
 <br/><br/>
 ## NOTE: You should not fork the repository
-Remember: There might be multiple ways to design your database schema. The goal is to understand the concepts and create a logical structure to store your project data.
+Remember: There might be multiple ways to design your database schema. The goal is to understand the concepts and create a logical structure to store your **project** data.
 
 
