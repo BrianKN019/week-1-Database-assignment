@@ -1,8 +1,10 @@
 # Introduction & Foundational Skills (Focus on Project Relevance)
 
+
 Welcome to Week 1! This week, we’ll be diving into the exciting world of SQL and databases! We’ll explore what SQL is used for, how it benefits web applications, and the building blocks of databases: tables, columns, and data types. But most importantly, we’ll get hands-on experience by creating a basic database structure for our upcoming project!
 
 <br/>
+
 
 ## Learning Objectives:
 - Understand the purpose and applications of SQL, particularly for web applications.
@@ -143,3 +145,6 @@ CREATE TABLE patients(
 ## NOTE: You should not fork the repository
 Remember: There might be multiple ways to design your database schema. The goal is to understand the concepts and create a logical structure to store your **project** data.
 
+
+<br/><br/>
+##ENDS
